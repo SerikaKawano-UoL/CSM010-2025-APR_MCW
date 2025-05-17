@@ -36,7 +36,7 @@ The following classification experiments were performed on the test set using th
 
 Below is the normalised confusion matrix generated for each class:
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](./confusion_matrix.png)
 
 ## Discussion
 
